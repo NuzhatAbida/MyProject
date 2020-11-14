@@ -18,7 +18,7 @@ Ridgewood does not fare so well in terms of crime and safety as assault and robb
 In terms of racial diversity, Ridgewood consists of primarily Hispanic and White residents with a smaller percentage of Asian and African American individuals.
 
 ### Ridgewood Statistics:
-⋅⋅* There is a total of 423 listings in Ridgewood.
+⋅⋅There is a total of 423 listings in Ridgewood.⋅⋅
 ⋅⋅* The highest priced Airbnb listing in Ridgewood is $375.
 ⋅⋅* The lowest priced Airbnb listing is $20.
 ⋅⋅* The median price for listings in Ridgewood is $60.
