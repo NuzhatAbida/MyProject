@@ -23,16 +23,22 @@ In terms of racial diversity, Ridgewood consists of primarily Hispanic and White
 - The lowest priced Airbnb listing is $20.
 - The median price for listings in Ridgewood is $60.
 - The mode for minimum number of nights in Ridgewood is 1.
-- The most common “room_type” for listings in Ridgewood is “Private room”. -21 listings in Ridgewood are available all year round.
+- The most common “room_type” for listings in Ridgewood is “Private room”. 
+- 21 listings in Ridgewood are available all year round.
 
+#### Figure 1: This graph shows the prices for Airbnb listings across Ridgewood. As you can see, the highest listing is $375 and the lowest listing is $20. The range for the prices is $355 and that shows us that listings in Ridgewood provide options for customers with a wide range of budgets.
 <img src="RidgewoodPrice.png" width="400">
 
+#### Figure 2: The following graph plots the availability for listings in Ridgewood. You can see that 21 listings are available all year round and many listings come close to be available 365 days out of the year. This shows which listings are available for long term stays and can aid someone is parsing out the listings that fit their criteria.
 <img src="Availibility.png" width="400">
 
+#### Figure 3: The following scatter plot shows the Airbnb listings’ locations in relation to one another. This provides an idea of how close each listing is.
 <img src="NeighborhoodLocationScatterplot.png" width="400">
 
+#### Figure 4: The following pie chart visualizes the different types of rooms for listings in Ridgewood, Queens. Private rooms make up 67.1% of the listings. 30.5% of the listings are for an entire home/apartment. 2.4% of the listings are a shared room. This chart is an informative visualization and shows us that private rooms make up most of the Airbnb listings in Ridgewood. This is ideal for customers who are looking for a private stay where they don’t have to interact with other people when they stay at a listing.
 <img src="NeighborhoodRoomTypePieChart.png" width="400">
 
+#### Figure 5: The following bar graph to show how many listings in Ridgewood, Queens have specific amenities such as a loft, an elevator, a doorman, nearby trains, and an airport. Zero Airbnb listings in Ridgewood have an elevator or a doorman. 15 listings are lofts. 3 listings are near airports. 38 listings have nearby trains. This visual is very important when trying to understand the listings in Ridgewood because it shows how desirable the listings may be. Out of 423 total listings in Ridgewood only 38 have nearby trains.
 <img src="Amenities.png" width="400">
 
 
