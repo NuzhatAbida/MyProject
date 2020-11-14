@@ -16,6 +16,5 @@ Ridgewood does not fare so well in terms of crime and safety as assault and robb
 #### Diversity:
 In terms of racial diversity, Ridgewood consists of primarily Hispanic and White residents with a smaller percentage of Asian and African American individuals.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/HC6.png "Logo Title Text 1")
-
+![GitHub Logo](/images/HC6.png)
 
