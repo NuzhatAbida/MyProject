@@ -24,3 +24,17 @@ In terms of racial diversity, Ridgewood consists of primarily Hispanic and White
 - The median price for listings in Ridgewood is $60.
 - The mode for minimum number of nights in Ridgewood is 1.
 - The most common “room_type” for listings in Ridgewood is “Private room”. -21 listings in Ridgewood are available all year round.
+
+<img src="RidgewoodPrice.png" width="400">
+
+<img src="Availibility.png" width="400">
+
+<img src="NeighborhoodLocationScatterplot.png" width="400">
+
+<img src="NeighborhoodRoomTypePieChart.png" width="400">
+
+<img src="Amenities.png" width="400">
+
+
+
+
