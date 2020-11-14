@@ -15,5 +15,3 @@ Commuters from Ridgewood can easily access the L and M subway lines. The L subwa
 Ridgewood does not fare so well in terms of crime and safety as assault and robbery per 100,000 residents ranges far higher than the national average. However, in terms of property crimes, the numbers reported range more than fifty percent below the national average.
 #### Diversity:
 In terms of racial diversity, Ridgewood consists of primarily Hispanic and White residents with a smaller percentage of Asian and African American individuals.
-
-![Alt Text](file:///Users/nuzhatabida/Documents/Hunter%202020%20FALL/CSCI%20127/Honors%20Assignments/HC6.png)
