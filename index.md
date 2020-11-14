@@ -42,5 +42,9 @@ In terms of racial diversity, Ridgewood consists of primarily Hispanic and White
 <img src="Amenities.png" width="400">
 
 
+### Summary:
+Ridgewood is desirable in terms of its range of prices and affordability. It is also desirable in terms of availability and the number of non-shared listings. However, it does not do well in terms of amenities. Very few listings are near trains. None have doormen or elevators and very few are near an airport.
+
+
 
 
