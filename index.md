@@ -41,6 +41,8 @@ In terms of racial diversity, Ridgewood consists of primarily Hispanic and White
 ###### Figure 5: The following bar graph to show how many listings in Ridgewood, Queens have specific amenities such as a loft, an elevator, a doorman, nearby trains, and an airport. Zero Airbnb listings in Ridgewood have an elevator or a doorman. 15 listings are lofts. 3 listings are near airports. 38 listings have nearby trains. This visual is very important when trying to understand the listings in Ridgewood because it shows how desirable the listings may be. Out of 423 total listings in Ridgewood only 38 have nearby trains.
 <img src="Amenities.png" width="400">
 
+<iframe src="AirbnbLocations.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 ### Summary:
 Ridgewood is desirable in terms of its range of prices and affordability. It is also desirable in terms of availability and the number of non-shared listings. However, it does not do well in terms of amenities. Very few listings are near trains. None have doormen or elevators and very few are near an airport.
