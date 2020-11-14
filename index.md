@@ -2,7 +2,7 @@
 
 
 ### Zip Code: 11385 
-<img scr="HC6.png" width="2">
+<img src="HC6.png" width="400">
 
 #### To conduct this analysis, the Airbnb dataset of New York City listings from 2019 was used. 
 
