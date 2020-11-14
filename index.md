@@ -16,3 +16,11 @@ Commuters from Ridgewood can easily access the L and M subway lines. The L subwa
 Ridgewood does not fare so well in terms of crime and safety as assault and robbery per 100,000 residents ranges far higher than the national average. However, in terms of property crimes, the numbers reported range more than fifty percent below the national average.
 #### Diversity:
 In terms of racial diversity, Ridgewood consists of primarily Hispanic and White residents with a smaller percentage of Asian and African American individuals.
+
+### Ridgewood Statistics:
+-There is a total of 423 listings in Ridgewood.
+-The highest priced Airbnb listing in Ridgewood is $375.
+-The lowest priced Airbnb listing is $20.
+-The median price for listings in Ridgewood is $60.
+-The mode for minimum number of nights in Ridgewood is 1.
+-The most common “room_type” for listings in Ridgewood is “Private room”. -21 listings in Ridgewood are available all year round.
