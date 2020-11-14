@@ -1,5 +1,4 @@
-Header 1
-Ridgewood, Queens Analysis. 
+#Ridgewood, Queens Analysis. 
 
 Zip Code: 11385 
 
