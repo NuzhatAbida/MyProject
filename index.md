@@ -1,6 +1,3 @@
-# Ridgewood, Queens Analysis
-
-
 ### Zip Code: 11385 
 <img src="HC6.png" width="400">
 
